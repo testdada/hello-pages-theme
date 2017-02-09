@@ -39,7 +39,7 @@ More Info:
 
 ### Live Demo
 
-See a live demo @ [`henrythemes.github.io/hello-pages-theme` »](https://henrythemes.github.io/hello-pages-theme)
+See a live demo @ [`testdada.github.io/hello-pages-theme` »](https://henrythemes.github.io/hello-pages-theme)
 
 
 ### Version 2.0
